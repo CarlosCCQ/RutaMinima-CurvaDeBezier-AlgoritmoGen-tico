@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyKPC01Application</string>
+    <string name="ruta_resultado">Ruta: %1$s</string>
+</resources>
